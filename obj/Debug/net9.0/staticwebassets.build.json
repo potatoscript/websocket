@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pnPHKF9LDBiYIS/6NOSDXdaoiNG/Hj2VCwXYDr8hMH0=",
+  "Source": "PotatoServer",
+  "BasePath": "_content/PotatoServer",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
